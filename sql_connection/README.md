@@ -81,6 +81,3 @@ conn.display_table(query)
 - If the database connection fails, an error message is displayed.
 - If the SQL query fails, an exception message is shown.
 
-## License
-This project is open-source and available under the MIT License.
-
